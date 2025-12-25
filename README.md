@@ -12,6 +12,8 @@ A simple Python Tkinter application that visualizes recent earthquake activity u
 ## Requirements
 
 This project depends on:
-  requests
-  matplotlib
-  numpy
+
+- requests
+- matplotlib
+- numpy
+
